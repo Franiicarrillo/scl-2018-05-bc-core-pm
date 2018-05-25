@@ -1,5 +1,5 @@
 body{
-  background-image: url(https://static.tumblr.com/5adf074e30edab1923d61ee6bed52296/idub2kf/zMyo9yoka/tumblr_static_tumblr_static__640.jpg);
+  background-image: url(http://1.bp.blogspot.com/-lMR6yItD8iQ/ThNSyk1ZlmI/AAAAAAAACN8/beoIOGau988/s1600/20.jpg);
 }
 #Titulos {
     background-color: rgb(229, 229, 114);
@@ -11,9 +11,10 @@ margin-left : auto;
      padding : 0px;
          height: 80vh;
          border-radius: 20px;
+         border-style: dotted;
 }
 #Texto {
-  background-color: rgb(199, 0, 57);
+  background-color: rgb(173, 161, 88);
   width: 94.8%;
   height: 40%;
   padding-left: 40px;
