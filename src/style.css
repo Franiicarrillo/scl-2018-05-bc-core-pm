@@ -1,1 +1,69 @@
-/* Acá va tu código */
+body{
+  background-image: url(https://static.tumblr.com/5adf074e30edab1923d61ee6bed52296/idub2kf/zMyo9yoka/tumblr_static_tumblr_static__640.jpg);
+}
+#Titulos {
+    background-color: rgb(229, 229, 114);
+    font-size: 20px;
+    width:60%;
+text-align: center;
+margin-left : auto;
+     margin-right : auto;
+     padding : 0px;
+         height: 80vh;
+         border-radius: 20px;
+}
+#Texto {
+  background-color: rgb(199, 0, 57);
+  width: 94.8%;
+  height: 40%;
+  padding-left: 40px;
+  text-align: left;
+
+}
+#Boton {
+  text-align: right;
+      position: relative;
+      right: 4em;
+      padding-left: 25%;
+      width: 80.5%;
+      bottom: 2.3em;
+
+}
+#Pregunta{
+  text-align: center;
+  position: relative;
+  right: 4em;
+}
+
+#Caja{
+  width: 80%;
+      height: 5.6em;
+      position: relative;
+      right: 8em;
+    }
+#Caja2{
+  width: 8%;
+  height: 2em;
+  position: relative;
+  right: 14em;
+}
+
+.Botones{
+  display: inline;
+  position: relative;
+  right: 40%;
+  padding: 0.6em;
+    bottom: 1em;
+}
+#Question{
+  text-align: center;
+  position: relative;
+  right: 4em;
+  bottom: 1.5em;
+}
+#Caja3{
+  width: 80%;
+  height: 5.6em;
+  position: relative;
+  left: 2.5em;
+}
