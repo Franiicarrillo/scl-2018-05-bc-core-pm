@@ -12,6 +12,7 @@ margin-left : auto;
          height: 80vh;
          border-radius: 20px;
          border-style: dotted;
+
 }
 #Texto {
   background-color: rgb(173, 161, 88);
@@ -55,6 +56,7 @@ margin-left : auto;
   right: 40%;
   padding: 0.6em;
     bottom: 1em;
+
 }
 #Question{
   text-align: center;
