@@ -1,72 +1,84 @@
 body{
-  background-image: url(http://1.bp.blogspot.com/-lMR6yItD8iQ/ThNSyk1ZlmI/AAAAAAAACN8/beoIOGau988/s1600/20.jpg);
+  background-image: url(http://www.hdfondos.eu/preview/get_photo/672268/2560/1600);
+  background-position: center;
 }
-#Titulos {
-    background-color: rgb(229, 229, 114);
-    font-size: 20px;
-    width:60%;
-text-align: center;
-margin-left : auto;
-     margin-right : auto;
-     padding : 0px;
-         height: 80vh;
-         border-radius: 20px;
-         border-style: dotted;
 
+.CuadradoFondo{
+  background: #E5E8E8 ;
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  width:60%;
+  margin-left : auto;
+  margin-right : auto;
+  padding : 0px;
+  height: 90vh;
+  border-radius: 20px;
+  border-style: dashed;
+  border-color: #2C3E50  ;
+  position: static;
 }
-#Texto {
-  background-color: rgb(173, 161, 88);
-  width: 94.8%;
-  height: 40%;
-  padding-left: 40px;
+.CuadradoFondo2{
+  background: #808B96  ;
+  position: relative;
+  font-size: 20px;
   text-align: left;
-
+  bottom: 70vh;
+font-family: 'Inconsolata', monospace;
+width: 60%;
+margin-left: auto;
+margin-right: auto;
+height: 30vh;
 }
-#Boton {
-  text-align: right;
-      position: relative;
-      right: 4em;
-      padding-left: 25%;
-      width: 80.5%;
-      bottom: 2.3em;
-
+#Caja{
+  width: 10vh;
+    height: 2.3em;
+    position: relative;
+    left: 36em;
+    bottom: 3.5em;
+    background-color: #E5E8E8  ;
 }
 #Pregunta{
+  font-family: 'Inconsolata', monospace;
+  position: relative;
+  z-index: 1;
   text-align: center;
+  bottom: 38em;
+  right: 2em;
+  }
+  #Caja2{
+    width: 30em;
+height: 7em;
+position: relative;
+left: 30em;
+bottom: 46em;
+background-color: #E5E8E8  ;
+  }
+  .Botones{
+    display: inline;
   position: relative;
-  right: 4em;
-}
-
-#Caja{
-  width: 80%;
-      height: 5.6em;
-      position: relative;
-      right: 8em;
-    }
-#Caja2{
-  width: 8%;
-  height: 2em;
-  position: relative;
-  right: 14em;
-}
-
-.Botones{
-  display: inline;
-  position: relative;
-  right: 40%;
-  padding: 0.6em;
-    bottom: 1em;
-
-}
-#Question{
-  text-align: center;
-  position: relative;
-  right: 4em;
-  bottom: 1.5em;
-}
+  left: 36em;
+  padding: 0.8em;
+    bottom: 46.8em;
+  }
+  #Resultados{
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    position: relative;
+    bottom: 26em;
+    font-size: 25px;
+  }
 #Caja3{
-  width: 80%;
-  height: 5.6em;
-  position: relative;
-  left: 2.5em;
+font-size: 18px;
+text-align: center;
+background: #85929E;
+padding: 40px;
+position: relative;
+bottom: 37em;
+left: 14em;
+width: 53.7%;
+
+
+
 }
