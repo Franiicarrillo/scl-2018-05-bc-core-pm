@@ -1,5 +1,5 @@
 window.cipher = {
-  encode: (offset,texto) => {
+  encode: (texto,offset) => {
   let newMessage="";
 //Recorrer todos los caracteres
   for(let i=0; i< texto.length; i++)
@@ -16,7 +16,7 @@ newMessage += newLetter;
 }
 return newMessage;
   },
-  decode: (offset,texto) => {
+  decode: (texto,offset) => {
     let newMessage="";
   //Recorrer todos los caracteres
     for(let i=0; i< texto.length; i++)
